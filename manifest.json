@@ -1,0 +1,28 @@
+{
+    "lang": "en-us",
+    "name": "Coffee Grind",
+    "short_name": "GC",
+    "description": "Coffee shop",
+    "start_url": "/",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/cup.png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/maskable-icon.png",
+            "sizes": "144x144"
+        },
+        
+        {
+            "src": "/maskable-icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
